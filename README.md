@@ -37,7 +37,9 @@ This helps identify geographical emission hotspots.
 Metric	Value	Explanation
 
 Total CO₂ Emission	- 163K	- The global total emission in thousands of metric tons.
+
 Avg. CO₂ per Capita -	1.78	- Average amount of CO₂ emitted per person.
+
 Top 5 CO₂ % 	-  65.83%	Share of global emissions from the top 5 emitting countries.
 
 
@@ -70,9 +72,13 @@ Prioritizing clean energy alternatives (solar, wind, etc.) would significantly r
 Country	Emissions (K)	% of Global Total
 
 China -	71K	( 100% (base))
+
 USA	- 27K (~38%)
+
 India	14K	(20%)
+
 Russia	11K	(~15%)
+
 Brazil	6K	(~9%)
 
 
